@@ -27,7 +27,6 @@ Technologies Used
 - Unity Game Engine
 - C#
 - Visual Studio
-- Unity Physics and UI Systems
 
 Project Structure
 - Apple Spawn System: Controls falling object timing and behavior

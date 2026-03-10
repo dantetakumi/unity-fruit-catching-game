@@ -2,7 +2,7 @@
 
 - Apple Picker is an arcade-style object-catching game developed in Unity using C#. The player controls a basket system to catch falling apples while managing lives, score progression, and increasing gameplay difficulty. The project emphasizes real-time object spawning systems, collision handling, and interactive user interface design.
 
-### Gameplay Features
+### Features
 - Real-time falling object spawning system
 - Player-controlled basket movement
 - Physics-based object motion and collision handling
@@ -13,7 +13,7 @@
 - Automatic game restart after player defeat
 - Functional start screen with interactive UI controls
 
-### Technical Concepts Demonstrated
+### Technical Concepts 
 - Object-Oriented Programming (OOP) in C#
 - Unity object instantiation and destruction systems
 - Collision detection and trigger handling

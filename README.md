@@ -1,4 +1,4 @@
-##Apple Picker - Unity Arcade Catching Game
+## Apple Picker - Unity Arcade Catching Game
 
 - Apple Picker is an arcade-style object-catching game developed in Unity using C#. The player controls a basket system to catch falling apples while managing lives, score progression, and increasing gameplay difficulty. The project emphasizes real-time object spawning systems, collision handling, and interactive user interface design.
 

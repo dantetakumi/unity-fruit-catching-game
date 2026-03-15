@@ -39,4 +39,4 @@
 - This project strengthened my ability to design real-time arcade gameplay systems using Unity and C#. I gained experience implementing object spawning logic, collision handling, and life management systems. I also improved my understanding of scene transitions, persistent data storage, and interactive UI development for responsive gameplay experiences.
 
 ### Status
-- Developed and completed gameplay prototype focusing on core mechanics, system design, physics, and interactive UI design as part of coursework in game development.
+- Developed and completed gameplay prototype focusing on core mechanics, system design, physics, and interactive UI design.
